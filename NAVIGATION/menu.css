@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, helvetica,san-serif;
+margin: 20px;
+}
+
+.block-menu a{
+  display: block;
+  background-color: rosybrown;
+  color: white;
+  padding:10px ;
+  margin : 5px 0;
+text-decoration: none;
+
+}
+.inline-menu a {
+  display: inline;
+  background-color:green;
+  color: white;
+   padding:5px ;
+  margin : 5px ;
+text-decoration: italic;
+}
+
+.inline-block a{
+
+}
